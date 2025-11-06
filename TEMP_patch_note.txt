@@ -1,0 +1,4 @@
+patches to apply:
+1) update FormValidator.checkPhoneNumber to strip non-digits and check 5-15 digits
+2) change doctor_signup InternationalPhoneNumberInput: remove maxLength:11
+3) change commented 'Palestine State' to 'Palestine'

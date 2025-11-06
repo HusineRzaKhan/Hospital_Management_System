@@ -1,0 +1,48 @@
+name: doctor
+description: "A new Flutter project."
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.9.0
+  firebase_storage: ^12.3.7
+  firebase_database: ^11.2.0
+  provider: ^6.1.2
+  firebase_auth: ^5.3.4
+  cloud_firestore: ^5.6.0
+  fluttertoast: ^8.2.2
+  intl: ^0.20.1
+  dio: ^5.2.1
+  animated_text_kit: ^4.2.1
+  image_picker: ^1.1.2
+  intl_phone_number_input: ^0.7.4
+  country_picker: ^2.0.15
+  flutter_svg: ^2.0.16
+  cupertino_icons: ^1.0.0
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  leak_tracker: ^11.0.2
+  leak_tracker_flutter_testing: ^3.0.8
+  matcher: ^0.12.16+1
+
+  flutter_lints: ^5.0.0
+
+flutter:
+  assets:
+    - assets/images/
+    - assets/countries_icons/
+    - assets/other_icons/
+    - assets/images/logo.png
+    - assets/images/Waiza Mariztu fahuwa yashfeen - 2000x2000 2.png
+    
+  uses-material-design: true
+
