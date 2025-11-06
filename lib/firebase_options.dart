@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCHtmM9lwRHc3D77rBROFMhViw_Te0rM-4',
+    apiKey: '<APIKey>',
     appId: '1:196758291330:web:d48fc48e57697cb203459b',
     messagingSenderId: '196758291330',
     projectId: 'hospital-64e11',
@@ -50,7 +50,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCAdd1SiYkz56KwBHVsH4BGKQhAWBcq2ak',
+    apiKey: '<APIKey>',
     appId: '1:196758291330:android:9a758a3bdfeaf69703459b',
     messagingSenderId: '196758291330',
     projectId: 'hospital-64e11',
@@ -58,7 +58,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDJIg-toHPhoQ7J2vi8KPvYu_n9iUSuqoY',
+    apiKey: '<APIKey>',
     appId: '1:196758291330:ios:b53f23c2f3925e1f03459b',
     messagingSenderId: '196758291330',
     projectId: 'hospital-64e11',
@@ -67,7 +67,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDJIg-toHPhoQ7J2vi8KPvYu_n9iUSuqoY',
+    apiKey: '<APIKey>',
     appId: '1:196758291330:ios:b53f23c2f3925e1f03459b',
     messagingSenderId: '196758291330',
     projectId: 'hospital-64e11',
@@ -76,7 +76,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyCHtmM9lwRHc3D77rBROFMhViw_Te0rM-4',
+    apiKey: '<APIKey>',
     appId: '1:196758291330:web:7f3a060bff80ced303459b',
     messagingSenderId: '196758291330',
     projectId: 'hospital-64e11',
