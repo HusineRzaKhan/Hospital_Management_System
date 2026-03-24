@@ -5,6 +5,14 @@
 
 ---
 
+## 💖 Support my Open-Source Journey
+
+I am a software engineer and student dedicated to building tools that give users back their digital agency. If my work has saved you time, solved a technical headache, or improved your workflow, consider supporting my independent development!
+
+☕ **[Support my work on Patreon (Buy Me a Coffee)](https://patreon.com/HussainRazaKhan)** or 
+    **NayaPay ID:** `HusineRzaKhan@nayapay`
+
+
 ## 📖 Overview
 
 The **Hospital Management System (HMS)** — also known as **DOCTOR** — is a cross-platform Flutter application designed for managing hospital operations efficiently. It features **role-based access** for Admins, Doctors, and Patients, integrated with Firebase Authentication and Firestore for secure data management.
